@@ -1,0 +1,7 @@
+*.pdf
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+phase_of_matter/.DS_Store
+.DS_Store
